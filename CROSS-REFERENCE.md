@@ -231,8 +231,8 @@ Current alignment: All three agree Galaxy of Spirits is the most important.
 
 | # | Issue | Files Involved | Priority | Status |
 |---|---|---|---|---|
-| 1 | `cheatsheet.md` says 5 stages; `lifelong-galaxy.md` and `README.md` say 9 | `cheatsheet.md` | HIGH | ⚠️ PENDING |
-| 2 | `zhutixing-model.md` defines 5 agency stages; `lifelong-galaxy.md` extends to 9 | `zhutixing-model.md`, `lifelong-galaxy.md` | HIGH | ⚠️ PENDING |
+| 1 | `cheatsheet.md` says 5 stages; `lifelong-galaxy.md` and `README.md` say 9 | `cheatsheet.md` | HIGH | ✅ FIXED (2026-04-16) |
+| 2 | `zhutixing-model.md` defines 5 agency stages; `lifelong-galaxy.md` extends to 9 | `zhutixing-model.md`, `lifelong-galaxy.md` | HIGH | ✅ FIXED (2026-04-16) — Stages 6-9 added with note linking to lifelong-galaxy.md |
 | 3 | `ai-ecosystem-vision.md` simplifies AI coverage as 60-80%; detail is stage-dependent | `ai-ecosystem-vision.md`, `resource-requirements-ai-facilitation.md` | MEDIUM | ⚠️ PENDING |
 | 4 | Missing cross-links between `cost-of-inaction.md` and `00-core-logic.md` | Multiple | MEDIUM | ⚠️ PENDING |
 | 5 | Stage files don't consistently link to `ai-integration.md` | All stage files | LOW | ⚠️ PENDING |
@@ -311,5 +311,6 @@ Current alignment: All three agree Galaxy of Spirits is the most important.
 | 2026-04-16 | Updated README.md with core logic, 9 stages, full file tree, AI vision | README.md | Claude |
 | 2026-04-16 | Fixed CONNECTOR-MAP.md (partial) — bi-directional bridge design | CONNECTOR-MAP.md | Claude |
 | 2026-04-16 | Added stage-by-stage AI map to resource-requirements-ai-facilitation.md | resource-requirements-ai-facilitation.md | Claude |
-| 2026-04-16 | ⚠️ cheatsheet.md still says 5 stages; needs update to 9 stages | cheatsheet.md | PENDING |
-| 2026-04-16 | ⚠️ zhutixing-model.md needs extension to stages 6-9 | zhutixing-model.md | PENDING |
+| 2026-04-16 | Added cross-reference system — concept index, orchestration rules, dependency tree, inconsistencies tracker | CROSS-REFERENCE.md | Claude |
+| 2026-04-16 | ✅ FIXED: cheatsheet.md updated to 9 stages, decisions updated, priorities updated | cheatsheet.md | FIXED |
+| 2026-04-16 | ✅ FIXED: zhutixing-model.md extended to Stages 6-9 (Rediscoverer through Elder-Witness), linked to lifelong-galaxy.md | zhutixing-model.md | FIXED |
