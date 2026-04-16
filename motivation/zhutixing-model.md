@@ -144,6 +144,95 @@ It is the difference between:
 - Agency maintenance: "Am I doing this because I choose to, or because I'm scared not to?"
 - Evidence review: "Looking back at years of journals — how have I changed?"
 
+> **Note**: Stages 6-9 extend the 主体性 model to the full human lifespan. For full detail including the co-pilot arrangement, the equality principle, and the 50-year practice, see `framework/lifelong-galaxy.md`.
+
+---
+
+### Stage 6: Rediscoverer (Ages ~25-40) — "我可以重新发现"
+
+**Core phrase**: I can rediscover what was taken from me
+
+**What it looks like**:
+- Recognizing that curiosity and agency were suppressed by the system
+- Choosing to investigate questions again — not for grades, but for meaning
+- Fighting back against passive survival: "I choose to survive AND create"
+- Walking back to accompany the wounded younger self
+- Hunting for spirits — seeing agency in ordinary people around you
+
+**Cultivation Practices**:
+
+1. **The healing walk-back** — Walk through your own history. Ages 13, 14, 15, 16... What happened? What did you need? What would you give yourself now?
+2. **Daily spirit hunting** — Notice one person today who demonstrates agency, however small. Document it.
+3. **"I choose" reframe** — When you notice yourself in passive survival mode: "I notice I feel like I HAVE to do X. I am choosing to do X because Y."
+4. **Presencing/journaling** — Regular sensing practice: "What am I noticing? What is emerging? Where is energy flowing?"
+5. **The 13-year-old walks with you** — The wounded younger self doesn't stay in the past. They come with you. Name what they protected — the stubborn aliveness that was stronger than the system.
+
+**Journal Prompts**:
+- "What did I notice today that proved the survivorship chain is wrong?"
+- "When did I feel agency today? When did I feel passive?"
+- "What did my 13-year-old need that I'm giving myself now?"
+
+---
+
+### Stage 7: Builder-of-Systems (Ages ~35-55) — "我可以为他者建造"
+
+**Core phrase**: I can build systems that help others solve problems
+
+**What it looks like**:
+- Shifting from solving problems FOR yourself to designing environments where OTHERS can solve
+- Building the galaxy for your children, students, community
+- Transmitting what you've learned without imposing your path
+- Healing yourself while helping others avoid the same wounds
+- Seeing AI as a lever for scaling what was previously only available to the privileged
+
+**Cultivation Practices**:
+
+1. **System design as practice** — Every problem you solve, ask: "How do I design an environment where others can solve this themselves?"
+2. **The co-pilot principle** — Design systems where you're an equal explorer with users, not an instructor above them.
+3. **Open-source thinking** — What you build, give away. The more you give, the stronger you become.
+4. **Building AND living** — Don't wait until the system is finished. Live the curious life NOW. Model it.
+5. **The village mindset** — Every child is our child. Design for them.
+
+**Journal Prompts**:
+- "What system am I building that helps others?"
+- "How am I living the curious life as I build it?"
+- "Where am I designing co-pilot relationships vs. instructor relationships?"
+
+---
+
+### Stage 8: Sage-Explorer (Ages ~50-70) — "我可以同时是新手也是专家"
+
+**Core phrase**: I can be expert and beginner at the same time
+
+**What it looks like**:
+- Deep expertise in your domain + beginner's mind in new domains
+- Asking naive questions in areas you know deeply
+- Mentoring without imposing your route
+- Letting the next generation teach you
+
+**Cultivation Practices**:
+
+1. **Beginner's mind practice** — Pick one domain you know nothing about. Investigate it with the curiosity of a child.
+2. **Teaching through story** — Not instruction. Story. What did you learn that others can't yet see?
+3. **Asking the questions others have forgotten** — Use your expertise to identify the questions the field stopped asking.
+
+---
+
+### Stage 9: Elder-Witness (Ages ~65+) — "我可以见证"
+
+**Core phrase**: I can witness and transmit pattern across time
+
+**What it looks like**:
+- Seeing patterns across decades that no one currently active can see
+- Teaching through presence and story
+- The same galaxy, seen through eyes separated by 60 years
+- Freedom from performance — pure curiosity remains
+
+**Cultivation Practices**:
+
+1. **Legacy as gift, not obligation** — What you leave is not achievement. It's the proof that a curious life was worth living.
+2. **Co-piloting with grandchildren** — The same galaxy. The same agency. 60 years apart. Equal at the deepest level.
+
 ---
 
 ## Measuring 主体性

@@ -12,10 +12,16 @@ A comprehensive PBL (Project-Based Learning) curriculum framework for ages 2-18 
 
 ## Current Priorities
 
-- [ ] Complete the age-stage framework (5 stages, 2-18)
+- [x] Complete the age-stage framework (9 stages, 2-90 — see lifelong-galaxy.md)
+- [x] Document motivation architecture and 主体性 cultivation model
 - [ ] Build the test-to-problem mapping methodology with concrete examples
-- [ ] Document motivation architecture and 主体性 cultivation model
 - [ ] Design assessment approach that bridges PBL and 高考 readiness
+- [x] Add AI integration philosophy (see motivation/ai-integration.md)
+- [x] Build resource requirements analysis (see framework/resource-requirements-ai-facilitation.md)
+- [x] Define core logic (see framework/00-core-logic.md)
+- [x] Create Galaxy of Spirits collection (see framework/galaxy-of-spirits.md)
+- [x] Design AI ecosystem vision (see framework/ai-ecosystem-vision.md)
+- [ ] Build Phase 1 of AI ecosystem (parent coaching + observation journal)
 
 ## Working Patterns
 
@@ -41,6 +47,9 @@ A comprehensive PBL (Project-Based Learning) curriculum framework for ages 2-18 
 - 2026-04-16: Bootstrap created by `three_role_bootstrap.py`
 - 2026-04-16: Chose 5-stage age breakdown: Seedling(2-5), Explorer(6-9), Builder(10-12), Investigator(13-15), Architect(16-18)
 - 2026-04-16: Primary language English with Chinese terms preserved
+- 2026-04-16: Extended to 9 stages including adults (Rediscoverer through Elder-Witness — see lifelong-galaxy.md). Stages 6-9 cover the full human lifespan.
+- 2026-04-16: Core logic defined — survivorship chain is the enemy, agency + collaboration is the weapon. Galaxy of Spirits is the priority document (if everything else disappears, this survives).
+- 2026-04-16: AI ecosystem vision — open-source, for every child, teacher, and school. Phase 1: parent coaching + observation journal.
 
 ## Open Problems
 
@@ -48,3 +57,5 @@ A comprehensive PBL (Project-Based Learning) curriculum framework for ages 2-18 
 - [ ] What does "AI integration" look like concretely at age 4 vs. age 14?
 - [ ] How to convince 体制内 parents this approach won't sacrifice 高考 scores
 - [ ] Teacher training implications (out of scope but critical for adoption)
+- [ ] Integrate personal transformation folders from other Mac (see CONNECTOR-MAP.md)
+- [ ] Fill Galaxy of Spirits (currently empty templates — need real observations)
